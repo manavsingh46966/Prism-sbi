@@ -1,0 +1,14 @@
+# Environment secrets - NEVER commit these
+backend/.env
+
+# Dependencies
+frontend/node_modules/
+backend/__pycache__/
+backend/**/__pycache__/
+
+# Build artifacts
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
