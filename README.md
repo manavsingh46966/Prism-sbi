@@ -179,14 +179,4 @@ fallback" and every response will carry `"ai_generated": false`.
 
 ---
 
-## Judging Criteria
 
-| Criteria | Score |
-|----------|-------|
-| Innovation | 10/10 |
-| Technical Feasibility | 9/10 |
-| Business Potential | 10/10 |
-| Scalability | 10/10 |
-| User Experience | 9/10 |
-| Regulatory Readiness | 10/10 |
-| **Total** | **58/60** |
